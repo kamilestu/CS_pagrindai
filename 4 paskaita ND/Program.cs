@@ -139,7 +139,7 @@ namespace _4_paskaita_ND
 
             while (laimejimai != 5)
             {
-                sk = rnd.Next(1, 10);
+                sk = rnd.Next(1, 11);
                 spejimas = 0;
 
                 Console.WriteLine("Aš sugalvojau skaičių nuo 1 iki 10.");
@@ -186,7 +186,7 @@ namespace _4_paskaita_ND
 
             for (int i = 0; i < kiek; i++)
             {
-                suma += rnd.Next(1, maxTasku);
+                suma += rnd.Next(1, maxTasku + 1);
             }
             Console.WriteLine("Išridenti {0} taškai.", suma);
             Console.WriteLine();
