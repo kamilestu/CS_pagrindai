@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7 paskaita ND", "7 paskaita
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8 paskaita Uzduotys", "8 paskaita Uzduotys\8 paskaita Uzduotys.csproj", "{C14928CB-B9AE-40F0-9940-B7A47ACD956E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 paskaita Uzduotys", "10 paskaita Uzduotys\10 paskaita Uzduotys.csproj", "{3E1BBA9D-0B1C-493A-9465-9A8E1DC4B262}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10 paskaita Uzduotys", "10 paskaita Uzduotys\10 paskaita Uzduotys.csproj", "{3E1BBA9D-0B1C-493A-9465-9A8E1DC4B262}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laikrodis", "Laikrodis\Laikrodis.csproj", "{B1880773-6342-49D3-A20A-EBC6641FF50C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klases", "Klases\Klases.csproj", "{2CB817F1-A439-49E2-9CD1-0871756BD467}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{3E1BBA9D-0B1C-493A-9465-9A8E1DC4B262}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E1BBA9D-0B1C-493A-9465-9A8E1DC4B262}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E1BBA9D-0B1C-493A-9465-9A8E1DC4B262}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1880773-6342-49D3-A20A-EBC6641FF50C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1880773-6342-49D3-A20A-EBC6641FF50C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1880773-6342-49D3-A20A-EBC6641FF50C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1880773-6342-49D3-A20A-EBC6641FF50C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CB817F1-A439-49E2-9CD1-0871756BD467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CB817F1-A439-49E2-9CD1-0871756BD467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CB817F1-A439-49E2-9CD1-0871756BD467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CB817F1-A439-49E2-9CD1-0871756BD467}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
